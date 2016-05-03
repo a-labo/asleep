@@ -9,7 +9,7 @@ Non-blocking sleep in ES7 (or, in ES6, setTimeout as a promise). Is mostly a syn
 ```javascript
 // Sleep for 2 seconds (2000 ms), then do something
 asleep(2000).then(function(){
-  console.log('Waking up!'');
+  console.log('Waking up!');
 });
 ```
 
@@ -30,6 +30,6 @@ while(1){
   console.log('I say: "Hi" every second!');
 }
 ```
-**Please note:** This is non-blocking, other code will continue to run while your async function "sleeps". [Read more about async...await](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html).
+**Please note:** This is non-blocking, other code will continue to run while your async function "sleeps". 
 
-
+[Read more about async...await](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html.
