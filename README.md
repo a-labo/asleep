@@ -34,4 +34,4 @@ while(1){
 ```
 **Please note:** This is non-blocking, other code will continue to run while your async function "sleeps". 
 
-<a href="https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html">Read more about async...await</a>
+[Read more about async...await](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
