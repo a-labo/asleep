@@ -1,5 +1,5 @@
 /*
-  promisemaker 0.1.2
+  asleep 1.0.1
  
   April 2016 Nodebite AB, Thomas Frank
 

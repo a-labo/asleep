@@ -1,6 +1,8 @@
-# asleep 1.0
+# asleep 1.0.1
 
-Non-blocking sleep in ES7 (or, in ES6, setTimeout as a promise). Is mostly a syntactic alternative to *setTimeout* in ES6, but in ES7 combined with a loop it will provide a syntactically cleaner alternative to *setInterval*.
+Non-blocking sleep in ES7 (or, in ES6, setTimeout as a promise). 
+
+This is mostly a syntactic alternative to *setTimeout* in ES6, but in ES7 combined with a loop it will provide a syntactically cleaner alternative to *setInterval*.
 
 > Due to the very limited code base of this module, we do not anticipate needing to make very many changes to it. 
 
@@ -32,4 +34,4 @@ while(1){
 ```
 **Please note:** This is non-blocking, other code will continue to run while your async function "sleeps". 
 
-[Read more about async...await](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html.
+<a href="https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html">Read more about async...await</a>
