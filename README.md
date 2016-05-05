@@ -1,10 +1,15 @@
-# asleep 1.0.1
+# asleep 1.0.2
 
 Non-blocking sleep in ES7 (or, in ES6, setTimeout as a promise). 
 
 This is mostly a syntactic alternative to *setTimeout* in ES6, but in ES7 combined with a loop it will provide a syntactically cleaner alternative to *setInterval*.
 
 > Due to the very limited code base of this module, we do not anticipate needing to make very many changes to it. 
+
+## Require the module
+```javascript
+var asleep = require("asleep");
+```
 
 ## Usage in ES6
 
