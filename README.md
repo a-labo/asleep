@@ -1,4 +1,4 @@
-# asleep 1.0.2
+# asleep 1.0.3
 
 Non-blocking sleep in ES7 (or, in ES6, setTimeout as a promise). 
 

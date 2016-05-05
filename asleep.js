@@ -1,5 +1,5 @@
 /*
-  asleep 1.0.2
+  asleep 1.0.3
  
   April 2016 Nodebite AB, Thomas Frank
 
